@@ -1,6 +1,6 @@
 ### Introduction
 
-This is a daily news bot use **github action** and **pushplus**.
+This is a daily news bot use **github action** and **pushplus** .
 
 ### Configuration
 
